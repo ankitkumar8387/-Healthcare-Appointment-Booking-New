@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "1",
+    "name": "Dr. Aarti Mehta",
+    "specialization": "Cardiologist",
+    "profileImage": "https://t4.ftcdn.net/jpg/03/20/74/45/360_F_320744517_TaGkT7aRlqqWdfGUuzRKDABtFEoN5CiO.jpg",
+    "availability": "Available",
+    "nextAvailable": "2025-08-02T12:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Sameer Sharma",
+    "specialization": "Dermatologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOwKoG6F9Wbuv7Kuh6b2hoRDIvsFjbYW1Ig&s",
+    "availability": "Busy",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Sanjeev Kumar",
+    "specialization": "Immunologists",
+    "profileImage": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+    "availability": "Available",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Bhola",
+    "specialization": "Anesthesiologists",
+    "profileImage": "https://static.vecteezy.com/system/resources/thumbnails/028/287/384/small/a-mature-indian-male-doctor-on-a-white-background-ai-generated-photo.jpg",
+    "availability": "Available",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Rajnish ",
+    "specialization": "Cardiologists",
+    "profileImage": "https://st4.depositphotos.com/1017986/21088/i/450/depositphotos_210888716-stock-photo-happy-doctor-with-clipboard-at.jpg",
+    "availability": "Busy",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Bipin kumar ",
+    "specialization": "Dermatologists",
+    "profileImage": "https://t3.ftcdn.net/jpg/06/81/62/44/360_F_681624470_Bove01iM9IM8fxlgEOGdnntS3zBKjsxK.jpg",
+    "availability": "Busy",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Ankit kumar ",
+    "specialization": "Endocrinologists",
+    "profileImage": "https://t3.ftcdn.net/jpg/03/00/22/02/360_F_300220248_VKEd3QKx31kzqHcwZfnGmWKZLYTjf8R0.jpg",
+    "availability": "Busy",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Dr. Tannu Jha ",
+    "specialization": "Hematologists",
+    "profileImage": "https://media.istockphoto.com/id/1730222050/photo/photo-of-doctor-lady-smile-looking-at-camera-wear-stethoscope-white-uniform-isolate-white.jpg?s=612x612&w=0&k=20&c=KfZT1DzVMcGvHZZg4NnUhHwvOiI5xPYRe1AWvCwOqE4=",
+    "availability": "Available",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Dr. Aditya Kumar ",
+    "specialization": "Nephrologists",
+    "profileImage": "https://t4.ftcdn.net/jpg/02/69/98/99/360_F_269989951_9Gf7PWaRtrpm2EochO3D5WVn22sFZbNZ.jpg",
+    "availability": "Busy",
+    "nextAvailable": "2025-08-03T09:00:00Z"
+  }
+]
